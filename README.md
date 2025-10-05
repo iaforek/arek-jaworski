@@ -69,4 +69,4 @@ In reverese chronological order.
 
 [Returning part of a string by Arek Jaworski](https://arek-jaworski.medium.com/returning-a-part-of-a-string-a63d1f887f02)
 
-[How to reverse a string in JavaScript by Arek Jaworski](https://arek-jaworski.medium.com/how-to-reverse-a-string-in-javascript-6cf4c0f38210))
+[How to reverse a string in JavaScript by Arek Jaworski](https://arek-jaworski.medium.com/how-to-reverse-a-string-in-javascript-6cf4c0f38210)
