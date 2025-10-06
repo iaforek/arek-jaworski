@@ -3,6 +3,10 @@ List of my articles on medium.com
 
 In reverese chronological order.
 
+[Singleton Pattern in Node.JS by Arek Jaworski](https://medium.com/gitconnected/singleton-pattern-in-node-js-3adfbaa1a132)
+
+[The Pragmatic Programmer Quick Reference Guide by Arek Jaworski](https://medium.com/gitconnected/the-pragmatic-programmer-quick-reference-guide-4af94138750e)
+
 [Doing TDD… the right way! bv Arek Jaworski](https://levelup.gitconnected.com/doing-tdd-the-right-way-cb445bab133f)
 
 [The Fall of AI and the Rise of REAL Intelligence by Arek Jaworski](https://medium.com/illuminations-mirror/the-fall-of-ai-and-the-rise-of-real-intelligence-76cba87db015)
